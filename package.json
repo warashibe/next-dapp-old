@@ -15,7 +15,7 @@
     "@nextdapp/web3": "^0.5.0",
     "cheerio": "^1.0.0-rc.3",
     "highlight.js": "^10.0.3",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "next-offline": "^5.0.0",
     "next-redux-wrapper": "^6.0.0",
     "normalize.css": "^8.0.1",
